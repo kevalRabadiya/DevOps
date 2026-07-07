@@ -1,4 +1,4 @@
-# AWS Server set up guide.
+# Server set up guide after AWS EC2 Launch .
 
 **Setup EC2 Instace:**
 
