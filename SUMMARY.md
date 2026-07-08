@@ -1,13 +1,17 @@
 # Table of contents
 
-* [AWS Services: Practical Overview & Blog Guide](README.md)
-
 ## DNS
 
-* [Complete DNS Guide: Basic to Advanced](dns/complete-dns-guide-basic-to-advanced.md)
+* [Complete DNS Guide: Basic to Advanced](README.md)
+* [DNS Complete Guide - Quick Start Index](dns/dns-complete-guide-quick-start-index.md)
+* [DNS Hierarchy & Architecture](dns/dns-hierarchy-and-architecture.md)
+* [DNS Resolution Process - Step by Step](dns/dns-resolution-process-step-by-step.md)
+* [DNS Record Types Reference](dns/dns-record-types-reference.md)
+* [DNS Security & DNSSEC](dns/dns-security-and-dnssec.md)
 
 ***
 
+* [AWS Services: Practical Overview & Blog Guide](<README (1).md>)
 * [Virtual Private Cloud (VPC) - Complete Guide](virtual-private-cloud-vpc-complete-guide.md)
 * [Server set up guide after AWS EC2 Launch](server-set-up-guide-after-aws-ec2-launch.md)
 * [AWS RDS Database Creation & Configuration Guide](aws-rds-database-creation-and-configuration-guide.md)
