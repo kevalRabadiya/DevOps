@@ -11,24 +11,24 @@ description: >-
 >
 > ### Table of Contents
 >
-> * [1. Overview](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#1-overview)
-> * [2. Prerequisites](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#2-prerequisites)
-> * [3. How It Works (Diagram)](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#3-how-it-works-diagram)
-> * [4. Install Certbot](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#4-install-certbot)
-> * [5. Issue a Certificate](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#5-issue-a-certificate)
->   * [5.1 Nginx](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#51-nginx-recommended)
->   * [5.2 Apache](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#52-apache)
->   * [5.3 Standalone (no web server / custom setup)](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#53-standalone-no-web-server--custom-setup)
-> * [6. Verify Certificate Installation](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#6-verify-certificate-installation)
-> * [7. Manual Renewal](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#7-manual-renewal)
-> * [8. Automatic Renewal](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#8-automatic-renewal)
->   * [8.1 Renewal Flow (Diagram)](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#81-renewal-flow-diagram)
->   * [8.2 Systemd Timer (default)](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#82-systemd-timer-default)
->   * [8.3 Cron Job (alternative)](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#83-cron-job-alternative)
-> * [9. Testing Everything](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#9-testing-everything)
-> * [10. Firewall Rules](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#10-firewall-rules)
-> * [11. Common Errors & Fixes](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#11-common-errors--fixes)
-> * [12. Useful Commands Cheat Sheet](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#12-useful-commands-cheat-sheet)
+> * 1\. Overview
+> * 2\. Prerequisites
+> * 3\. How It Works (Diagram)
+> * 4\. Install Certbot
+> * 5\. Issue a Certificate
+>   * 5.1 Nginx
+>   * 5.2 Apache
+>   * 5.3 Standalone (no web server / custom setup)
+> * 6\. Verify Certificate Installation
+> * 7\. Manual Renewal
+> * 8\. Automatic Renewal
+>   * 8.1 Renewal Flow (Diagram)
+>   * 8.2 Systemd Timer (default)
+>   * 8.3 Cron Job (alternative)
+> * 9\. Testing Everything
+> * 10\. Firewall Rules
+> * 11\. Common Errors & Fixes
+> * 12\. Useful Commands Cheat Sheet
 >
 > ***
 >

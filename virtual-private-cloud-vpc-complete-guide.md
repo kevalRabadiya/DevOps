@@ -8,22 +8,22 @@ description: From Beginner to Advanced
 
 ### Table of Contents
 
-1. [Beginner Level](https://claude.ai/chat/f0e01f2b-75a0-46dd-9ef6-780d945e1251#beginner-level)
+1. Beginner Level
    * What is VPC?
    * Why VPC Matters
    * Core Components
    * Getting Started
-2. [Intermediate Level](https://claude.ai/chat/f0e01f2b-75a0-46dd-9ef6-780d945e1251#intermediate-level)
+2. Intermediate Level
    * Subnets Deep Dive
    * Routing & Route Tables
    * Security Groups & NACLs
    * Internet Connectivity
-3. [Advanced Level](https://claude.ai/chat/f0e01f2b-75a0-46dd-9ef6-780d945e1251#advanced-level)
+3. Advanced Level
    * VPC Peering
    * VPN & Hybrid Connectivity
    * Multi-Account Architecture
    * Advanced Security Patterns
-4. [Real-World Scenarios](https://claude.ai/chat/f0e01f2b-75a0-46dd-9ef6-780d945e1251#real-world-scenarios)
+4. Real-World Scenarios
 
 ***
 

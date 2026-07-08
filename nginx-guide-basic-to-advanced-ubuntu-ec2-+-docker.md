@@ -11,30 +11,30 @@ description: >-
 
 ### Table of Contents
 
-* [1. What is Nginx](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#1-what-is-nginx)
-* [2. Architecture (Diagram)](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#2-architecture-diagram)
-* [3. Installation on Ubuntu](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#3-installation-on-ubuntu)
-* [4. sites-available vs sites-enabled](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#4-sites-available-vs-sites-enabled)
-* [5. Basic Configuration](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#5-basic-configuration)
-* [6. Serving a Static Website](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#6-serving-a-static-website)
-* [7. Reverse Proxy Basics](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#7-reverse-proxy-basics)
-* [8. EC2 + Multiple Docker Containers (Core Topic)](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#8-ec2--multiple-docker-containers-core-topic)
-  * [8.1 The Problem](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#81-the-problem)
-  * [8.2 Architecture Diagram](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#82-architecture-diagram)
-  * [8.3 Routing by Subdomain](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#83-routing-by-subdomain)
-  * [8.4 Routing by Path](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#84-routing-by-path)
-  * [8.5 Routing by Port (direct, no proxy)](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#85-routing-by-port-direct-no-proxy)
-  * [8.6 Docker Compose + Nginx Together](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#86-docker-compose--nginx-together)
-* [9. Load Balancing Multiple Containers](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#9-load-balancing-multiple-containers)
-* [10. Adding SSL to Reverse Proxies](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#10-adding-ssl-to-reverse-proxies)
-* [11. Advanced Configuration](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#11-advanced-configuration)
-  * [11.1 Gzip Compression](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#111-gzip-compression)
-  * [11.2 Caching](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#112-caching)
-  * [11.3 Rate Limiting](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#113-rate-limiting)
-  * [11.4 WebSocket Support](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#114-websocket-support)
-  * [11.5 Security Headers](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#115-security-headers)
-* [12. Testing & Debugging](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#12-testing--debugging)
-* [13. Useful Commands Cheat Sheet](https://claude.ai/chat/23cae4b7-5995-40e6-a56a-40f5d8727bbd#13-useful-commands-cheat-sheet)
+* 1\. What is Nginx
+* 2\. Architecture (Diagram)
+* 3\. Installation on Ubuntu
+* 4\. sites-available vs sites-enabled
+* 5\. Basic Configuration
+* 6\. Serving a Static Website
+* 7\. Reverse Proxy Basics
+* 8\. EC2 + Multiple Docker Containers (Core Topic)
+  * 8.1 The Problem
+  * 8.2 Architecture Diagram
+  * 8.3 Routing by Subdomain
+  * 8.4 Routing by Path
+  * 8.5 Routing by Port (direct, no proxy)
+  * 8.6 Docker Compose + Nginx Together
+* 9\. Load Balancing Multiple Containers
+* 10\. Adding SSL to Reverse Proxies
+* 11\. Advanced Configuration
+  * 11.1 Gzip Compression
+  * 11.2 Caching
+  * 11.3 Rate Limiting
+  * 11.4 WebSocket Support
+  * 11.5 Security Headers
+* 12\. Testing & Debugging
+* 13\. Useful Commands Cheat Sheet
 
 ***
 

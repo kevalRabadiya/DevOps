@@ -10,22 +10,22 @@ description: >-
 
 ### Table of Contents
 
-1. [Access AWS RDS](https://claude.ai/chat/f45a8d49-950e-414a-85c9-44c3bb858874#access-aws-rds)
-2. [Database Creation Method](https://claude.ai/chat/f45a8d49-950e-414a-85c9-44c3bb858874#database-creation-method)
-3. [Engine Selection](https://claude.ai/chat/f45a8d49-950e-414a-85c9-44c3bb858874#engine-selection)
-4. [Template Selection](https://claude.ai/chat/f45a8d49-950e-414a-85c9-44c3bb858874#template-selection)
-5. [DB Instance Configuration](https://claude.ai/chat/f45a8d49-950e-414a-85c9-44c3bb858874#db-instance-configuration)
-6. [Credentials Management](https://claude.ai/chat/f45a8d49-950e-414a-85c9-44c3bb858874#credentials-management)
-7. [Storage Configuration](https://claude.ai/chat/f45a8d49-950e-414a-85c9-44c3bb858874#storage-configuration)
-8. [Availability & Durability](https://claude.ai/chat/f45a8d49-950e-414a-85c9-44c3bb858874#availability--durability)
-9. [Connectivity Settings](https://claude.ai/chat/f45a8d49-950e-414a-85c9-44c3bb858874#connectivity-settings)
-10. [Security Groups](https://claude.ai/chat/f45a8d49-950e-414a-85c9-44c3bb858874#security-groups)
-11. [Backup Configuration](https://claude.ai/chat/f45a8d49-950e-414a-85c9-44c3bb858874#backup-configuration)
-12. [Parameter Group](https://claude.ai/chat/f45a8d49-950e-414a-85c9-44c3bb858874#parameter-group)
-13. [Monitoring](https://claude.ai/chat/f45a8d49-950e-414a-85c9-44c3bb858874#monitoring)
-14. [Create Database](https://claude.ai/chat/f45a8d49-950e-414a-85c9-44c3bb858874#create-database)
-15. [Verify Connectivity](https://claude.ai/chat/f45a8d49-950e-414a-85c9-44c3bb858874#verify-connectivity)
-16. [Upgrade Strategy](https://claude.ai/chat/f45a8d49-950e-414a-85c9-44c3bb858874#upgrade-strategy)
+1. Access AWS RDS
+2. Database Creation Method
+3. Engine Selection
+4. Template Selection
+5. DB Instance Configuration
+6. Credentials Management
+7. Storage Configuration
+8. Availability & Durability
+9. Connectivity Settings
+10. Security Groups
+11. Backup Configuration
+12. Parameter Group
+13. Monitoring
+14. Create Database
+15. Verify Connectivity
+16. Upgrade Strategy
 
 ***
 

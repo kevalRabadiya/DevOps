@@ -6,16 +6,16 @@ Quick reference guide for AWS services with practical use cases and blog resourc
 
 ### Table of Contents
 
-1. [Compute Services](https://claude.ai/chat/f0e01f2b-75a0-46dd-9ef6-780d945e1251#compute-services)
-2. [Storage Services](https://claude.ai/chat/f0e01f2b-75a0-46dd-9ef6-780d945e1251#storage-services)
-3. [Database Services](https://claude.ai/chat/f0e01f2b-75a0-46dd-9ef6-780d945e1251#database-services)
-4. [Networking & Content Delivery](https://claude.ai/chat/f0e01f2b-75a0-46dd-9ef6-780d945e1251#networking--content-delivery)
-5. [Security & Identity](https://claude.ai/chat/f0e01f2b-75a0-46dd-9ef6-780d945e1251#security--identity)
-6. [Developer Tools](https://claude.ai/chat/f0e01f2b-75a0-46dd-9ef6-780d945e1251#developer-tools)
-7. [Application Integration](https://claude.ai/chat/f0e01f2b-75a0-46dd-9ef6-780d945e1251#application-integration)
-8. [Analytics & Big Data](https://claude.ai/chat/f0e01f2b-75a0-46dd-9ef6-780d945e1251#analytics--big-data)
-9. [Machine Learning](https://claude.ai/chat/f0e01f2b-75a0-46dd-9ef6-780d945e1251#machine-learning)
-10. [Management & Monitoring](https://claude.ai/chat/f0e01f2b-75a0-46dd-9ef6-780d945e1251#management--monitoring)
+1. Compute Services
+2. Storage Services
+3. Database Services
+4. Networking & Content Delivery
+5. Security & Identity
+6. Developer Tools
+7. Application Integration
+8. Analytics & Big Data
+9. Machine Learning
+10. Management & Monitoring
 
 ***
 
