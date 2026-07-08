@@ -6,7 +6,7 @@ Quick reference guide for AWS services with practical use cases and blog resourc
 
 ### Table of Contents
 
-1. Compute Services
+1. [Compute Services](./#table-of-contents)
 2. Storage Services
 3. Database Services
 4. Networking & Content Delivery
