@@ -8,11 +8,3 @@
 * [SSL/TLS Certificate Guide (Ubuntu Server)](ssl-tls-certificate-guide-ubuntu-server.md)
 * [Database DevOps Commands Reference](database-devops-commands-reference.md)
 * [Complete DNS Guide: Basic to Advanced](complete-dns-guide-basic-to-advanced.md)
-
-## DNS
-
-* [DNS Complete Guide - Quick Start Index](dns/dns-complete-guide-quick-start-index.md)
-* [DNS Hierarchy & Architecture](dns/dns-hierarchy-and-architecture.md)
-* [DNS Resolution Process - Step by Step](dns/dns-resolution-process-step-by-step.md)
-* [DNS Record Types Reference](dns/dns-record-types-reference.md)
-* [DNS Security & DNSSEC](dns/dns-security-and-dnssec.md)
