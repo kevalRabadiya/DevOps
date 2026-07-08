@@ -1,6 +1,13 @@
 # Table of contents
 
 * [AWS Services: Practical Overview & Blog Guide](README.md)
+
+## DNS
+
+* [Complete DNS Guide: Basic to Advanced](dns/complete-dns-guide-basic-to-advanced.md)
+
+***
+
 * [Virtual Private Cloud (VPC) - Complete Guide](virtual-private-cloud-vpc-complete-guide.md)
 * [Server set up guide after AWS EC2 Launch](server-set-up-guide-after-aws-ec2-launch.md)
 * [AWS RDS Database Creation & Configuration Guide](aws-rds-database-creation-and-configuration-guide.md)
