@@ -8,3 +8,4 @@
 * [SSL/TLS Certificate Guide (Ubuntu Server)](ssl-tls-certificate-guide-ubuntu-server.md)
 * [Database DevOps Commands Reference](database-devops-commands-reference.md)
 * [DNS Complete Guide: Fundamentals to Advanced](dns-complete-guide-fundamentals-to-advanced.md)
+* [AWS EventBridge Complete Guide: Fundamentals to Advanced](aws-eventbridge-complete-guide-fundamentals-to-advanced.md)
