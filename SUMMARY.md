@@ -7,4 +7,4 @@
 * [Nginx Guide: Basic to Advanced (Ubuntu / EC2 + Docker)](nginx-guide-basic-to-advanced-ubuntu-ec2-+-docker.md)
 * [SSL/TLS Certificate Guide (Ubuntu Server)](ssl-tls-certificate-guide-ubuntu-server.md)
 * [Database DevOps Commands Reference](database-devops-commands-reference.md)
-* [Complete DNS Guide: Basic to Advanced](complete-dns-guide-basic-to-advanced.md)
+* [DNS Complete Guide: Fundamentals to Advanced](dns-complete-guide-fundamentals-to-advanced.md)
