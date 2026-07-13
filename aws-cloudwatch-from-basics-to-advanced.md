@@ -1,24 +1,27 @@
+---
+description: >-
+  AWS CloudWatch is a comprehensive monitoring and observability platform that
+  provides insights into your AWS resources and applications. It collects and
+  tracks metrics, monitors log and sets alarms.
+---
+
 # AWS CloudWatch: From Basics to Advanced
 
 ### Table of Contents
 
-1. [Introduction](https://claude.ai/chat/025d923a-efa5-40de-b946-54ea1efc73d0#introduction)
-2. [Core Concepts](https://claude.ai/chat/025d923a-efa5-40de-b946-54ea1efc73d0#core-concepts)
-3. [Getting Started](https://claude.ai/chat/025d923a-efa5-40de-b946-54ea1efc73d0#getting-started)
-4. [Monitoring AWS Resources](https://claude.ai/chat/025d923a-efa5-40de-b946-54ea1efc73d0#monitoring-aws-resources)
-5. [Custom Metrics](https://claude.ai/chat/025d923a-efa5-40de-b946-54ea1efc73d0#custom-metrics)
-6. [Logs Management](https://claude.ai/chat/025d923a-efa5-40de-b946-54ea1efc73d0#logs-management)
-7. [CloudWatch Alarms](https://claude.ai/chat/025d923a-efa5-40de-b946-54ea1efc73d0#cloudwatch-alarms)
-8. [Dashboards](https://claude.ai/chat/025d923a-efa5-40de-b946-54ea1efc73d0#dashboards)
-9. [Advanced Features](https://claude.ai/chat/025d923a-efa5-40de-b946-54ea1efc73d0#advanced-features)
-10. [Cost Optimization](https://claude.ai/chat/025d923a-efa5-40de-b946-54ea1efc73d0#cost-optimization)
-11. [Best Practices](https://claude.ai/chat/025d923a-efa5-40de-b946-54ea1efc73d0#best-practices)
+1. Introduction
+2. Core Concepts
+3. Getting Started
+4. Monitoring AWS Resources
+5. Custom Metrics
+6. Logs Management
+7. CloudWatch Alarms
+8. Dashboards
+9. Advanced Features
+10. Cost Optimization
+11. Best Practices
 
 ***
-
-### Introduction
-
-AWS CloudWatch is a comprehensive monitoring and observability platform that provides insights into your AWS resources and applications. It collects and tracks metrics, monitors log files, and sets alarms for automated responses when specific events occur.
 
 #### CloudWatch Architecture Overview
 
