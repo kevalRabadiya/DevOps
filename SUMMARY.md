@@ -1,6 +1,7 @@
 # Table of contents
 
 * [AWS Services: Practical Overview & Blog Guide](README.md)
+* [IAM Service: Basic to Advanced Guide](iam-service-basic-to-advanced-guide.md)
 * [Virtual Private Cloud (VPC) - Complete Guide](virtual-private-cloud-vpc-complete-guide.md)
 * [Server set up guide after AWS EC2 Launch](server-set-up-guide-after-aws-ec2-launch.md)
 * [AWS RDS Database Creation & Configuration Guide](aws-rds-database-creation-and-configuration-guide.md)
