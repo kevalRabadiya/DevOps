@@ -9,16 +9,16 @@ description: >-
 
 ### Table of Contents
 
-1. [Introduction](https://claude.ai/chat/c41961f2-2b05-4f5e-bc82-f2b968882635#introduction)
-2. [Basic Concepts](https://claude.ai/chat/c41961f2-2b05-4f5e-bc82-f2b968882635#basic-concepts)
-3. [Core Components](https://claude.ai/chat/c41961f2-2b05-4f5e-bc82-f2b968882635#core-components)
-4. [Authentication](https://claude.ai/chat/c41961f2-2b05-4f5e-bc82-f2b968882635#authentication)
-5. [Authorization](https://claude.ai/chat/c41961f2-2b05-4f5e-bc82-f2b968882635#authorization)
-6. [IAM Policies](https://claude.ai/chat/c41961f2-2b05-4f5e-bc82-f2b968882635#iam-policies)
-7. [Roles and Permissions](https://claude.ai/chat/c41961f2-2b05-4f5e-bc82-f2b968882635#roles-and-permissions)
-8. [Best Practices](https://claude.ai/chat/c41961f2-2b05-4f5e-bc82-f2b968882635#best-practices)
-9. [Advanced Topics](https://claude.ai/chat/c41961f2-2b05-4f5e-bc82-f2b968882635#advanced-topics)
-10. [Implementation Examples](https://claude.ai/chat/c41961f2-2b05-4f5e-bc82-f2b968882635#implementation-examples)
+1. Introduction
+2. Basic Concepts
+3. Core Components
+4. Authentication
+5. Authorization
+6. IAM Policies
+7. Roles and Permissions
+8. Best Practices
+9. Advanced Topics
+10. Implementation Examples
 
 ***
 
